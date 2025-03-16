@@ -3,6 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20AI-purple)
 
 SnapReview is a GitHub App that automatically reviews your Pull Requests using Gemini AI. Get instant code quality feedback without waiting for human reviewers!
 
@@ -20,7 +21,7 @@ SnapReview is a GitHub App that automatically reviews your Pull Requests using G
 3. SnapReview analyzes the code changes and posts a review comment within seconds
 4. Use the feedback to improve your code before merging
 
-![Demo Flow](https://via.placeholder.com/800x400?text=SnapReview+Demo)
+
 
 ## 🛠️ Local Development Setup
 
