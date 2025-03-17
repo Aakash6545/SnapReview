@@ -21,7 +21,24 @@ SnapReview is a GitHub App that automatically reviews your Pull Requests using G
 3. SnapReview analyzes the code changes and posts a review comment within seconds
 4. Use the feedback to improve your code before merging
 
+## 🌟 SnapReview in Action
 
+### Seamless Integration with GitHub
+SnapReview integrates directly into your GitHub workflow, providing intelligent code reviews right where you need them.
+
+<div align="center">
+
+
+
+### 🔍 Detailed Code Analysis
+![Pull Request Files Changed](https://github.com/user-attachments/assets/64b87b3a-120e-42de-871f-450a32e947ed)
+![Code Diff Analysis](https://github.com/user-attachments/assets/b493a0b0-76fd-4b30-9c76-9cf8fd2b437c)
+![In-depth Code Review](https://github.com/user-attachments/assets/23ea6344-6814-40bb-8a5e-c8f1be7214bc)
+
+### 🤖 AI-Powered Insights
+![Automated Review Comments](https://github.com/user-attachments/assets/fda83d09-0fc9-4930-b73c-15d4ca79e111)
+
+</div>
 
 ## 🛠️ Local Development Setup
 
