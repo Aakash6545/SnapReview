@@ -10,6 +10,6 @@ router.use(jsonParser);
 
 
 router.use(webhookRoutes);
-router.use(healthRoutes);
+
 
 module.exports = router;
